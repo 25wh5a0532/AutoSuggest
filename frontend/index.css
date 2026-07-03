@@ -1,3 +1,20 @@
 h1{
-    color:blue;
+    color: red;
+    text-align: center; 
+
+}
+
+.home-intro{
+    text-align:center;
+    border:3px;
+    border-style:solid;
+    border-color:black;
+    
+    background-style:solid;
+    background-color:rgb(150, 233, 212);
+
+    
+}
+#p2{
+    color:blue
 }
